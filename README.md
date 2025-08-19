@@ -3,8 +3,8 @@
 <img width="1997" height="1215" alt="изображение" src="https://github.com/user-attachments/assets/92333cd8-f08e-4080-a876-a4f2fa851ab9" />
 
 # 🎮 Tetris on WPF
-[![Stars](https://img.shields.io/github/stars/atocheniy/Code-Editor?style=flat&color=yellow)](https://github.com/atocheniy/Code-Editor/stargazers)
-[![License](https://img.shields.io/github/license/atocheniy/Code-Editor?style=flat&color=blue)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/atocheniy/Tetris-2024-Release?style=flat&color=yellow)](https://github.com/atocheniy/Tetris-2024-Release/stargazers)
+[![License](https://img.shields.io/github/license/atocheniy/Tetris-2024-Release?style=flat&color=blue)](LICENSE)
 ![.NET](https://img.shields.io/badge/.NET-4.8-purple)
 ![WPF](https://img.shields.io/badge/WPF-purple)
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational)
