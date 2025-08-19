@@ -3,6 +3,11 @@
 <img width="1997" height="1215" alt="изображение" src="https://github.com/user-attachments/assets/92333cd8-f08e-4080-a876-a4f2fa851ab9" />
 
 # 🎮 Tetris on WPF
+[![Stars](https://img.shields.io/github/stars/atocheniy/Code-Editor?style=flat&color=yellow)](https://github.com/atocheniy/Code-Editor/stargazers)
+[![License](https://img.shields.io/github/license/atocheniy/Code-Editor?style=flat&color=blue)](LICENSE)
+![.NET](https://img.shields.io/badge/.NET-4.8-purple)
+![WPF](https://img.shields.io/badge/WPF-purple)
+![Platform](https://img.shields.io/badge/Platform-Windows-informational)
 
 A classic Tetris game written in C# using WPF (.NET). A simple project demonstrating basic game logic, UI implementation in WPF, and data persistence.
 
@@ -43,6 +48,10 @@ The player must control falling shapes (tetrominoes) to form solid horizontal li
 ---
 
 ## Core Functions
+
+<p align="center">
+  <img width="597" alt="изображение" src="Images/3.png" />
+</p>
 
 ### Save and Load Game
 *   **Save:** The player can save the current game state at any moment via the menu. The state includes the block layout on the field, the current score, level, and the next piece. The data is serialized and saved to a local file.
