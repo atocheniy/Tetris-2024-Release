@@ -1,4 +1,5 @@
-# Tetris-2024-Release
+![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=300&section=header&text=Game%Tetris%20&fontSize=90)
+
 <img width="1997" height="1215" alt="изображение" src="https://github.com/user-attachments/assets/92333cd8-f08e-4080-a876-a4f2fa851ab9" />
 
 # 🎮 Tetris on WPF
@@ -21,6 +22,7 @@ A classic Tetris game written in C# using WPF (.NET). A simple project demonstra
 *   **Language:** C#
 
 ---
+
 
 ## Gameplay and Mechanics
 
